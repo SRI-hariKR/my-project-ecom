@@ -568,6 +568,9 @@ a {
     grid-template-columns: 1.5fr 1fr 1fr;
     gap: 1rem;
   }
+  .nconn {
+    display:none;
+}
 }
 
 @media screen and (max-width: 586px) {
